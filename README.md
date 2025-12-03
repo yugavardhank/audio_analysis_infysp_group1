@@ -1,8 +1,4 @@
 ![InfyBanner](image001.jpg)
-<p align="center">
-  <img src="image001.jpg" width="300">
-</p>
-
 # ***Project title: Automated Podcast Transcription And Topic Segmentation – Audio Analysis Project - Group 1*** 
 **Candidate Name: K Yugavardhan**
 > **Assignments provided by Mentor: Resma Rani Nimalpuri**
