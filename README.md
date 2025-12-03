@@ -1,5 +1,5 @@
 # Assignments provided by Mentor: Resma Rani Nimalpuri
-> **Candidate Name: K Yugavardhan**
+**Candidate Name: K Yugavardhan**
 > **Project title: Automated Podcast Transcription And Topic Segmentation – Audio Analysis Project - Group 1**
 
 
